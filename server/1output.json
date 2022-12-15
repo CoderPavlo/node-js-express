@@ -1,0 +1,53 @@
+{
+	"id": "638b6d07f54d557950f5a180",
+	"self": "http://example.com/articles",
+	"next": "http://example.com/articles?page[offset]=2",
+	"last": "http://example.com/articles?page[offset]=10",
+	"children": [
+		{
+			"name": "Elliott Webster",
+			"age": 6
+		},
+		{
+			"name": "Vasquez Robbins",
+			"age": 5
+		},
+		{
+			"name": "Tandy Christensen",
+			"age": 7
+		},
+		{
+			"name": "Tracy Newman",
+			"age": 6
+		},
+		{
+			"name": "Rory Sexton",
+			"age": 2
+		}
+	],
+	"currentJob": {
+		"title": "Developer",
+		"salary": "mask;"
+	},
+	"jobs": [
+		{
+			"title": "medic",
+			"salary": "R$ 6.494,64"
+		},
+		{
+			"title": "medic",
+			"salary": "R$ 7.814,02"
+		}
+	],
+	"maxRunDistance": 3.4,
+	"cpf": "996.833.148-13",
+	"cnpj": "30.136.778/0001-93",
+	"pretendSalary": "R$ 2.015,28",
+	"age": 53,
+	"gender": "male",
+	"firstName": "Shiloh",
+	"lastName": "Lott",
+	"phone": "+55 (83) 96636-0460",
+	"address": "448 Meserole Street - Falmouth, Wyoming, Guam.",
+	"hairColor": "cyan"
+}
